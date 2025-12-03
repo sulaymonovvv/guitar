@@ -3,7 +3,7 @@ import Top from "./components/Top";
 import Header from "./components/Header";
 import Navbar from "./components/Navbar";
 import Black from "./components/Black";
-import Famous from "./components/famous";
+import Famous from "./components/Famous";
 import Lavka from "./components/Lavka";
 
 import Karusel from "./components/Karusel";
